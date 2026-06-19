@@ -12,8 +12,8 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "BabyBot",
-  "prefix": "!",
+  "nickNameBot": "𝚂𝚆𝙲 𝙻𝙴𝙰𝙳𝙴𝚁",
+  "prefix": ".",
   "api": "https://api.noobs-api.rf.gd/dipto",
   "approval": false,
   "reactBy": {
@@ -31,16 +31,18 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61552258402755"
+    "61588880697306",
+    "61588880697306"
   ],
   "mainAdmin": [
-    "61552258402755"
+    "61588880697306",
+    "61588880697306"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61552258402755",
-      "100044327656712"
+      "61588880697306",
+      "61588880697306"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
